@@ -1,4 +1,4 @@
-# Qiskit-ML-Dev-Alpha
+# Qiskit-ML-Dev-Starter
 This is a development environment for Qiskit Machine Learning. The original author is [Mark Chen](https://github.com/MarkCodering).
 
 ## Table of Contents
@@ -16,6 +16,6 @@ This is a development environment for Qiskit Machine Learning. The original auth
    cd Qiskit-ML-Dev-Alpha
     ```
 
-2. Reopen in the container with Docker engine running
+2. Reopen the container with the Docker engine running
 
 ## Features
