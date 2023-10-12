@@ -12,9 +12,9 @@ This is a development environment for Qiskit Machine Learning. The original auth
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MarkCodering/Qiskit-ML-Dev-Alpha
-   cd Qiskit-ML-Dev-Alpha
-    ```
+   git clone https://github.com/ntu-quantum-finance/Quantum-ML-Starter
+   cd Quantum-ML-Starter
+   ```
 
 2. Reopen the container with the Docker engine running
 
